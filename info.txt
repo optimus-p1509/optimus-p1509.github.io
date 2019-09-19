@@ -1,0 +1,44 @@
+ML
+Type : Machine Learning
+
+FizzBuzz - https://github.com/optimus-p1509/FizzBuzz-using-MachineLearning
+LeToR - https://github.com/optimus-p1509/LeToR-using-Linear-Regression
+Handwriting Comparison using Machine Learning - https://github.com/optimus-p1509/Handwriting-Comparison-using-Machine-Learning
+Handwritten Digit Recognition -  https://github.com/optimus-p1509/Handwritten-Digit-Recognition
+Reinforcement Learning
+
+AML
+Type : Machine Learning
+
+Determining Probabilities of Handwriting Formations using PGMs - https://github.com/optimus-p1509/Determining-Probabilities-of-Handwriting-Formations-using-PGMs
+Forensic pattern recognition using Explainable AI - https://github.com/optimus-p1509/Forensic-pattern-recognition-using-Explainable-AI
+Unpaired Image-to-Image-Translation-with-Conditional-Adversarial-Networks - https://github.com/optimus-p1509/Unpaired-Image-to-Image-Translation-with-Conditional-Adversarial-Networks
+
+DS
+Type : Distributed Systems
+
+DHT - https://github.com/optimus-p1509/Distributed-Hash-Table
+Amazon Dynamo - https://github.com/optimus-p1509/Amazon-Dynamo-style-key-value-storage
+
+IR
+Type : Information Retreival
+
+Twitter miner and Processing - https://github.com/optimus-p1509/Twitter-Miner-And-Processor
+
+Sem
+
+Sequence to Sequence Machine Translation and Gender Bias Analysis - https://github.com/optimus-p1509/Sequence-to-Sequence-Machine-Translation-and-Gender-Bias-Analysis
+
+
+Sequence to Sequence Machine Translation and Gender Bias Analysis
+Forensic pattern recognition using Explainable AI
+Unpaired Image-to-Image Translation with Conditional Adversarial Networks
+Amazon Dynamo-style key-value storage
+Determining Probabilities of Handwriting Formations using PGMs
+!404 - An Information Retrieval System
+Distributed Hash Table
+Handwritten Digit Recognition
+Handwriting Comparison using Machine Learning
+Solving LeToR using Machine Learning
+Twitter miner and Processing
+FizzBuzz using Machine Learning
